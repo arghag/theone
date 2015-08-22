@@ -1,3 +1,4 @@
+```
 git add .
 git add filename
 git commit -m "message"
@@ -13,3 +14,4 @@ ls -al
 pwd - present working directory
 vi -> i -> Esc + :w / :q
 git checkout <branchname>
+```
